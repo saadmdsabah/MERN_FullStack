@@ -11,6 +11,8 @@ function add(a, b){
 
 function newFeatureAdded(){
     console.log("This is a new Feature");
+    a = 5;
+    console.log(a);
 }
 
 app.listen(3000, ()=>console.log("Server is running"))
