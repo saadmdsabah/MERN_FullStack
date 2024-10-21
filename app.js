@@ -15,6 +15,11 @@ function newFeatureAdded(){
     console.log(a);
 }
 
+function tempFeature() {
+  console.log("This is a new Feature");
+  a = 5;
+  console.log(a);
+}
 
 function saadFeature() {
   console.log("This is a new Feature");
