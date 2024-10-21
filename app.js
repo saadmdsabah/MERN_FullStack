@@ -15,4 +15,11 @@ function newFeatureAdded(){
     console.log(a);
 }
 
+
+function saadFeature() {
+  console.log("This is a new Feature");
+  a = 5;
+  console.log(a);
+}
+
 app.listen(3000, ()=>console.log("Server is running"))
