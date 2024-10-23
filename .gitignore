@@ -9,7 +9,7 @@ lerna-debug.log*
 .vscode/
 pnpm-lock.yaml
 .gitignore
-README.md
+*/README.md
 
 #Custome for React
 # dependencies
